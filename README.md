@@ -95,3 +95,8 @@ _TODO: Answer the following questions to fill in the blanks:_
 - Need to edit the ansible hosts file to include your host name and IP addresses. To change the host machine that the playbook runs on you need to specify the host name in the playbook file at the beginning with hosts options.
 - _Which URL do you navigate to in order to check that the ELK server is running?
  http://[your.ELK-VM.External.IP]:5601/app/kibana
+ 
+ ![Filebeat Connection Screenshot](https://user-images.githubusercontent.com/82425164/127929346-c5b03846-7e19-4f0e-a908-ea1eeae82d40.PNG)
+
+![metricbeat screenshot](https://user-images.githubusercontent.com/82425164/127929374-b6470093-9ec8-4ae4-8a7c-3d062e6b8228.PNG)
+
